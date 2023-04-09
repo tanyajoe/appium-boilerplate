@@ -58,6 +58,8 @@ WebdriverIO and Appium, when interacting with form elements, should be able sele
 Can't call click on element with selector "~Dropdown" because element wasn't found  
 Error: Can't call click on element with selector "~Dropdown" because element wasn't found
 
+Issue: https://github.com/tanyajoe/appium-boilerplate/issues/1
+
 ***
 
 **Spec 5**
